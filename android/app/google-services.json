@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "282596968404",
+    "project_id": "itugeo",
+    "storage_bucket": "itugeo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282596968404:android:f586357e171c8549e9f841",
+        "android_client_info": {
+          "package_name": "com.example.itu_geo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282596968404-8t0asrajpus37r9toa7vl0vmrt6h0gs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq790wpQ7PlnSBsxOus1zN0ytxdDsCt6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282596968404-8t0asrajpus37r9toa7vl0vmrt6h0gs4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282596968404-s0h285u1t2eiarslok49scc9lskacavr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ituGeo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
